@@ -3630,6 +3630,20 @@
       "level": "Intermediate",
       "day": "Thursday",
       "id": "814b1f5e-e6df-440b-a91c-df198b5bbed2"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Introductory and overview",
+      "day": "Friday",
+      "id": "c63fa251-e2cb-4ca4-9879-14c09d63b5e6"
+    },
+    {
+      "title": "New session title",
+      "description": "New session description",
+      "level": "Introductory and overview",
+      "day": "Friday",
+      "id": "2ea77baa-a6cf-44f3-89c6-458d0a772260"
     }
   ]
 }
