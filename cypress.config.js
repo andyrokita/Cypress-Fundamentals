@@ -7,7 +7,7 @@ module.exports = defineConfig({
     },
     
     env: {
-      baseUrl: 'http://loclhost:1337'
+      baseUrl: 'http://localhost:1337'
 
     },
 
