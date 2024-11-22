@@ -11,7 +11,7 @@ describe("Submit sessions", () => {
 
   it("should navigate to submit sessions page", () => {
     cy.url().should("include", "/sessions/new")
-  })
+  })                                              
 
   it("should submit a session successfully", () => {
     //Filling the from with session info
